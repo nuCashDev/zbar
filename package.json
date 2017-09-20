@@ -1,0 +1,11 @@
+{
+    "name": "zbar-nucash",
+    "version": "1.0.0",
+    "description": "Plugin to integrate with the ZBar barcode scanning library. nuCash version",
+    "author": "Eduardo Vieira nuCash",
+    "license": "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/nuCashDev/zbar/issues"
+    },
+    "homepage": "https://github.com/nuCashDev/zbar#readme"
+}
